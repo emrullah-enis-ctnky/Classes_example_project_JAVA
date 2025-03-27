@@ -1,4 +1,3 @@
-```markdown
 # Library Management System 📚
 
 Bu proje, basit bir **Kütüphane Yönetim Sistemi** uygulamasını simüle etmek için yazılmıştır. Proje, **kitap ödünç alma** ve **iade etme** gibi temel kütüphane işlevlerini gerçekleştiren sınıflardan oluşmaktadır.
