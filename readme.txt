@@ -1,5 +1,3 @@
-Tabii, işte **GPL-3.0** lisansı altında olan bir proje için şık ve düzenli bir Markdown dosyası. Lisans kısmı da yeni bir şekilde güncellendi.
-
 ```markdown
 # Library Management System 📚
 
