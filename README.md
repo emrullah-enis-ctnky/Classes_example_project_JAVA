@@ -150,21 +150,21 @@ Proje hakkında katkıda bulunmak isterseniz, lütfen şu adımları takip edin:
 
 ---
 
-## Lisans
+## License
 
-Bu proje **GNU Genel Kamu Lisansı v3.0 (GPL-3.0)** altında lisanslanmıştır.
+Library Management System
 
-**GPL-3.0** Lisansı, açık kaynak yazılımlarının özgürlüğünü korur ve herkesin yazılımı kullanmasını, değiştirmesini ve dağıtmasını sağlar.
+Copyright (C) 2025 Emrullah Enis Çetinkaya and contributors
 
-```
-Bu yazılım, Free Software Foundation tarafından yayımlanan GNU Genel Kamu Lisansı v3.0 veya (isteğe bağlı olarak) herhangi bir sonraki sürümü ile lisanslanmıştır.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Bu yazılımı kullanmak ve dağıtmak için aşağıdaki koşulları kabul ediyorsunuz:
-1. Yazılımı herhangi bir amaç için kullanabilirsiniz.
-2. Yazılımı değiştirebilir ve özelleştirebilirsiniz.
-3. Değişikliklerinizi dağıtırken, kaynak kodunu ve orijinal lisansı da sağlamalısınız.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-Bu yazılımın kullanımına dair garanti verilmez. Yazılım, "Olduğu gibi" sağlanmaktadır.
-```
-
----
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
